@@ -35,5 +35,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "/Users/ASUS/Desktop/Practica/freecodecamps%20react/contador/build/"
+  "homepage": "/Users/ASUS/Desktop/Practica/freecodecamps%20react/contador/build/",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }
